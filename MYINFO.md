@@ -1,2 +1,3 @@
 # Myinfo
 # Habit :
+# MBTI :
